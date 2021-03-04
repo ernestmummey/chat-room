@@ -1,2 +1,3 @@
 # chat-room
-My first project
+My first project with python
+
