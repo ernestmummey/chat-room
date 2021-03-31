@@ -1,3 +1,3 @@
-# chat-room
-My first project with python
+# chat-app
+My first project with MERN Stack
 
