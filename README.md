@@ -1,3 +1,3 @@
 # chat-app
-My first project with MERN Stack
+Project with MERN Stack
 
