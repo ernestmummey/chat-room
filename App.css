@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+
+.loginContainer{
+  padding-top: 300px;
+}
+
+.loginWrapper{
+padding-top: 200px;
+height: 500px;
+width: 800px;
+}
+
+label{
+  color:aliceblue;
+}
